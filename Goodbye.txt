@@ -1,2 +1,3 @@
 print("Goodbye Andrey")
 print("Goodbye Dmitriy")
+print("Goodbye All")
